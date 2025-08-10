@@ -350,15 +350,9 @@ static setCorsHeaders(origin, additionalHeaders = {}) {
 
 本项目采用 MIT 许可证，欢迎贡献代码和提出改进建议。
 
-## 联系方式
 
-如有问题或建议，请通过以下方式联系：
-- GitHub Issues
-- 微信：[![wechat-qr](https://github.com/user-attachments/assets/e3b078f3-b164-4eb8-96ee-be1e96f50391)
-]
-
----
 
 **注意**：部署前请仔细阅读本文档，确保所有配置信息正确填写。建议先在测试环境中验证功能正常后再部署到生产环境。
+
 
 
