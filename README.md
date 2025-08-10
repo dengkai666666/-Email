@@ -1,8 +1,3 @@
-# 先打个广告
-我的另一个项目*AI公众号自动发文助手：https://github.com/wojiadexiaoming-copy/AIWeChatauto.git
-
-# 已部署的链接：https://env-00jxt0xsffn5-static.normal.cloudstatic.cn/cloudfare_workers_email/index.html
-
 # 临时邮箱生成器 - 完整部署指南
 
 ## 项目概述
@@ -365,4 +360,5 @@ static setCorsHeaders(origin, additionalHeaders = {}) {
 ---
 
 **注意**：部署前请仔细阅读本文档，确保所有配置信息正确填写。建议先在测试环境中验证功能正常后再部署到生产环境。
+
 
